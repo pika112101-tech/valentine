@@ -1,4 +1,5 @@
-index.htmlj(Hairtaishuu)<!DOCTYPE html>
+index.htmlj
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
